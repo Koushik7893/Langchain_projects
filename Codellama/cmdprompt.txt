@@ -1,0 +1,2 @@
+ollama create "somename(example:pillu)" -f (yourmodelfile for example "modelfile" in this folder)
+ollama run pillu
